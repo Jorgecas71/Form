@@ -47,3 +47,18 @@ p {
     border-radius: 3px;
    }
 
+   textarea {
+    border-radius:5px;
+    padding:20px 190px;
+    width:600;
+    text-align: center;
+   }
+
+    #submit {
+    padding:10px 200px;
+    border-radius:5px;
+    background-color:#fceb06;
+    text-align: center;
+    margin-left: 100px;
+   }
+  
