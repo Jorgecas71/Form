@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background: #0f3443; 
+    background: -moz-linear-gradient(left, #0f3443 0%, #34e69f 100%); 
+    background: -webkit-linear-gradient(left, #0f3443 0%,#34e69f 100%);
+    background: linear-gradient(to right, #0f3443 0%,#34e69f 100%);  
+    color: azure;
+}
+
+p {
+    text-align: center;    
+    }
+
+   section {
+    text-align: start;
+    }
+
+    .answer {
+    text-align: left;    
+   }
+    
+    form {
+    text-align: left;
+    margin-left: 300px;
+   }
+    
+    #name {
+    width: 600px;
+    padding: 10px;
+    border-radius: 3px;
+    }    
+    #email {
+    width: 600px;
+    padding: 10px;
+    border-radius: 3px;
+    }
+
+    #number {
+    width: 600px;
+    padding: 10px;
+    border-radius: 3px;
+   }  
+
+    #dropdown {
+    width: 630px;
+    padding: 10px;
+    border-radius: 3px;
+   }
+
+   textarea {
+    border-radius:5px;
+    padding:20px 190px;
+    width:600;
+    text-align: center;
+   }
+
+    #submit {
+    padding:10px 200px;
+    border-radius:5px;
+    background-color:#fceb06;
+    text-align: center;
+    margin-left: 100px;
+   }
+  
