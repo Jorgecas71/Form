@@ -1,3 +1,7 @@
+@import "reset.css";
+@import "header.css";
+
+
 body {
     font-family: sans-serif;
     background: #0f3443; 
@@ -5,6 +9,7 @@ body {
     background: -webkit-linear-gradient(left, #0f3443 0%,#34e69f 100%);
     background: linear-gradient(to right, #0f3443 0%,#34e69f 100%);  
     color: azure;
+    padding: 20px;
 }
 
 p {
